@@ -1,24 +1,24 @@
 {
-  "name": "cheiltest",
+  "name": "cheilRep",
   "version": "1.0.0",
-  "description": "cheiltest",
+  "description": "cheilRep",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/drew08/cheiltest.git"
+    "url": "git+https://github.com/drew08/cheilRep.git"
   },
   "keywords": [
-    "cheiltest"
+    "cheilRep"
   ],
   "author": "andrew rincon",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/drew08/cheiltest/issues"
+    "url": "https://github.com/drew08/cheilRep/issues"
   },
-  "homepage": "https://github.com/drew08/cheiltest#readme",
+  "homepage": "https://github.com/drew08/cheilRep#readme",
   "dependencies": {
     "@angular/cli": "^8.3.24",
     "angular": "^1.7.9",
